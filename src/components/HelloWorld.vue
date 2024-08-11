@@ -3,7 +3,7 @@
     <!-- TODO: Uncomment elemen img di bawah ini dan tambahkan source dari gambar logo devcode yang ada di dalam folder assets -->
     <img
       data-cy="devcode-logo"
-      src="~/../../assets/devcode-logo.png"
+      src="@/assets/devcode-logo.png"
       alt="devcode logo"
     />
     <div data-cy="devcode-title">
